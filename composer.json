@@ -21,7 +21,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">= 7.1",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": ">= 6.3",
         "netresearch/jsonmapper": "^1.4"
     },
     "require-dev": {
